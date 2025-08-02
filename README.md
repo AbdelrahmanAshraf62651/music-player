@@ -122,22 +122,8 @@ body {
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your player UI here — e.g., `screenshot1.png`, `screenshot2.png`)*
-
-```
-![Music Player Screenshot](./screenshot1.png)
-```
-
----
-
 ## 📄 License
 
 This project is free to use, modify, and distribute for personal and educational purposes.
 
 ---
-
-## 🙌 Credits
-
-Created by **[Your Name]** — inspired by modern minimal music players.
